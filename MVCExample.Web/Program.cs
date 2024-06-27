@@ -1,6 +1,7 @@
 using Microsoft.EntityFrameworkCore;
 using MVCExample.Web.EFDbContext;
 using MVCExample.Web.Features.Blog;
+using MVCExample.Web.Features.Book;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -13,7 +14,8 @@ builder.Services.AddDbContext<AppDbContext>(
                 .GetConnectionString("DbConnection")
         )
 );
-builder.Services.AddScoped<IBlogService,BlogService>();
+builder.Services.AddScoped<IBlogService,BlogService>(); 
+builder.Services.AddScoped<IBookService,BookService>();
 builder.Services.AddRazorPages().AddRazorRuntimeCompilation();
 builder.Services.AddControllersWithViews();
 
