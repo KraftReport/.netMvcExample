@@ -1,0 +1,62 @@
+﻿@model MVCExample.Web.Features.Book.Book
+@{
+    Layout = LayoutService.GetLayout();
+    //If you want to add
+    //ViewData["Title"] = "Blog";
+}
+
+<section class="content-header"></section>
+<section class="content">
+    <div class="container-fluid">
+        <div class="row">
+            <div class="col-md-8 m-auto">
+                <div class="card ">
+                    <div class="card-header">
+                        <h3 class="card-title">Create Book</h3>
+                    </div>
+                    <form asp-action="SaveBook" method="post" asp-controller="Book">
+                        <div class="card-body">
+                            <div class="form-group">
+                                <label for="Name">Name</label>
+                                <input type="text" class="form-control" asp-for="Name" placeholder="Enter Name">
+                                <span asp-validation-for="Name" class="text-danger"></span>
+                            </div>
+                            <div class="form-group">
+                                <label for="Author">Author</label>
+                                <input type="text" class="form-control" asp-for="author" placeholder="Enter Author">
+                                <span asp-validation-for="author" class="text-danger"></span>
+                            </div>
+                            <div class="form-group">
+                                <label for="Price">Price</label>
+                                <input type="number" class="form-control" asp-for="price" placeholder="Enter Price">
+                                <span asp-validation-for="price" class="text-danger"></span>
+                            </div>
+                            <div class="form-group">
+                                <label for="Category">Category</label>
+                                <select class="form-control" asp-for="category" asp-items="ViewBag.Categories">
+                                    <option value="">Select Category</option>
+                                </select>
+                                <span asp-validation-for="category" class="text-danger"></span>
+                            </div>
+                            <div class="form-group text-right">
+                                <a asp-action="Index" class="btn btn-flat btn-outline-danger mr-2">Cancel</a>
+                                <button type="submit" class="btn btn-outline-success btn-flat">Save</button>
+                            </div>
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+@* @section Scripts {
+    <script>
+        var message = "@Html.Raw(TempData["Message"])";
+        if (message !== "") {
+            $("#modal-message").html(message);
+            $("#message-modal").modal('show');
+        }
+    </script>
+}
+ *@
