@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "VY9Irba9WZ0=",
+  "dgSpecHash": "doANnLpMRsE=",
   "success": true,
-  "projectFilePath": "C:\\Users\\KraftWork\\source\\repos\\TrainingApi\\TrainingApi.csproj",
+  "projectFilePath": "C:\\Users\\KraftWork\\Desktop\\mvc\\.netMvcExample\\TrainingApi\\TrainingApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\KraftWork\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\KraftWork\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

@@ -8262,11 +8262,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\KraftWork\\source\\repos\\TrainingApi\\TrainingApi.csproj",
+      "projectUniqueName": "C:\\Users\\KraftWork\\Desktop\\mvc\\.netMvcExample\\TrainingApi\\TrainingApi.csproj",
       "projectName": "TrainingApi",
-      "projectPath": "C:\\Users\\KraftWork\\source\\repos\\TrainingApi\\TrainingApi.csproj",
+      "projectPath": "C:\\Users\\KraftWork\\Desktop\\mvc\\.netMvcExample\\TrainingApi\\TrainingApi.csproj",
       "packagesPath": "C:\\Users\\KraftWork\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\KraftWork\\source\\repos\\TrainingApi\\obj\\",
+      "outputPath": "C:\\Users\\KraftWork\\Desktop\\mvc\\.netMvcExample\\TrainingApi\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

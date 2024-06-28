@@ -1,49 +1,93 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\KraftWork\\source\\repos\\TrainingApi\\",
+  "WorkspaceRootPath": "C:\\Users\\KraftWork\\Desktop\\mvc\\.netMvcExample\\TrainingApi\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8D8A8C01-6EE8-4ADC-9474-54D39A2657EC}|TrainingApi.csproj|c:\\users\\kraftwork\\source\\repos\\trainingapi\\controllers\\todoitemscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8D8A8C01-6EE8-4ADC-9474-54D39A2657EC}|TrainingApi.csproj|c:\\users\\kraftwork\\desktop\\mvc\\.netmvcexample\\trainingapi\\features\\book\\bookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D8A8C01-6EE8-4ADC-9474-54D39A2657EC}|TrainingApi.csproj|solutionrelative:features\\book\\bookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D8A8C01-6EE8-4ADC-9474-54D39A2657EC}|TrainingApi.csproj|c:\\users\\kraftwork\\desktop\\mvc\\.netmvcexample\\trainingapi\\controllers\\authorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D8A8C01-6EE8-4ADC-9474-54D39A2657EC}|TrainingApi.csproj|solutionrelative:controllers\\authorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D8A8C01-6EE8-4ADC-9474-54D39A2657EC}|TrainingApi.csproj|c:\\users\\kraftwork\\desktop\\mvc\\.netmvcexample\\trainingapi\\features\\book\\authorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D8A8C01-6EE8-4ADC-9474-54D39A2657EC}|TrainingApi.csproj|solutionrelative:features\\book\\authorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D8A8C01-6EE8-4ADC-9474-54D39A2657EC}|TrainingApi.csproj|c:\\users\\kraftwork\\desktop\\mvc\\.netmvcexample\\trainingapi\\features\\book\\iauthorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D8A8C01-6EE8-4ADC-9474-54D39A2657EC}|TrainingApi.csproj|solutionrelative:features\\book\\iauthorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D8A8C01-6EE8-4ADC-9474-54D39A2657EC}|TrainingApi.csproj|c:\\users\\kraftwork\\desktop\\mvc\\.netmvcexample\\trainingapi\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D8A8C01-6EE8-4ADC-9474-54D39A2657EC}|TrainingApi.csproj|solutionrelative:controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D8A8C01-6EE8-4ADC-9474-54D39A2657EC}|TrainingApi.csproj|c:\\users\\kraftwork\\desktop\\mvc\\.netmvcexample\\trainingapi\\features\\book\\ibookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D8A8C01-6EE8-4ADC-9474-54D39A2657EC}|TrainingApi.csproj|solutionrelative:features\\book\\ibookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D8A8C01-6EE8-4ADC-9474-54D39A2657EC}|TrainingApi.csproj|c:\\users\\kraftwork\\desktop\\mvc\\.netmvcexample\\trainingapi\\controllers\\todoitemscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8D8A8C01-6EE8-4ADC-9474-54D39A2657EC}|TrainingApi.csproj|solutionrelative:controllers\\todoitemscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8D8A8C01-6EE8-4ADC-9474-54D39A2657EC}|TrainingApi.csproj|c:\\users\\kraftwork\\source\\repos\\trainingapi\\features\\todoitem\\itodoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8D8A8C01-6EE8-4ADC-9474-54D39A2657EC}|TrainingApi.csproj|solutionrelative:features\\todoitem\\itodoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8D8A8C01-6EE8-4ADC-9474-54D39A2657EC}|TrainingApi.csproj|c:\\users\\kraftwork\\desktop\\mvc\\.netmvcexample\\trainingapi\\migrations\\20240628042756_two.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D8A8C01-6EE8-4ADC-9474-54D39A2657EC}|TrainingApi.csproj|solutionrelative:migrations\\20240628042756_two.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8D8A8C01-6EE8-4ADC-9474-54D39A2657EC}|TrainingApi.csproj|c:\\users\\kraftwork\\source\\repos\\trainingapi\\features\\todoitem\\todoitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8D8A8C01-6EE8-4ADC-9474-54D39A2657EC}|TrainingApi.csproj|solutionrelative:features\\todoitem\\todoitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8D8A8C01-6EE8-4ADC-9474-54D39A2657EC}|TrainingApi.csproj|c:\\users\\kraftwork\\desktop\\mvc\\.netmvcexample\\trainingapi\\features\\book\\authordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D8A8C01-6EE8-4ADC-9474-54D39A2657EC}|TrainingApi.csproj|solutionrelative:features\\book\\authordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8D8A8C01-6EE8-4ADC-9474-54D39A2657EC}|TrainingApi.csproj|c:\\users\\kraftwork\\source\\repos\\trainingapi\\features\\todoitem\\todoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8D8A8C01-6EE8-4ADC-9474-54D39A2657EC}|TrainingApi.csproj|solutionrelative:features\\todoitem\\todoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8D8A8C01-6EE8-4ADC-9474-54D39A2657EC}|TrainingApi.csproj|c:\\users\\kraftwork\\desktop\\mvc\\.netmvcexample\\trainingapi\\features\\book\\bookdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D8A8C01-6EE8-4ADC-9474-54D39A2657EC}|TrainingApi.csproj|solutionrelative:features\\book\\bookdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8D8A8C01-6EE8-4ADC-9474-54D39A2657EC}|TrainingApi.csproj|c:\\users\\kraftwork\\source\\repos\\trainingapi\\features\\todoitem\\todoresponsemodallist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8D8A8C01-6EE8-4ADC-9474-54D39A2657EC}|TrainingApi.csproj|solutionrelative:features\\todoitem\\todoresponsemodallist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8D8A8C01-6EE8-4ADC-9474-54D39A2657EC}|TrainingApi.csproj|c:\\users\\kraftwork\\desktop\\mvc\\.netmvcexample\\trainingapi\\features\\book\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D8A8C01-6EE8-4ADC-9474-54D39A2657EC}|TrainingApi.csproj|solutionrelative:features\\book\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8D8A8C01-6EE8-4ADC-9474-54D39A2657EC}|TrainingApi.csproj|c:\\users\\kraftwork\\source\\repos\\trainingapi\\features\\todoitem\\todoresponsemodal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8D8A8C01-6EE8-4ADC-9474-54D39A2657EC}|TrainingApi.csproj|solutionrelative:features\\todoitem\\todoresponsemodal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8D8A8C01-6EE8-4ADC-9474-54D39A2657EC}|TrainingApi.csproj|c:\\users\\kraftwork\\desktop\\mvc\\.netmvcexample\\trainingapi\\features\\book\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D8A8C01-6EE8-4ADC-9474-54D39A2657EC}|TrainingApi.csproj|solutionrelative:features\\book\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8D8A8C01-6EE8-4ADC-9474-54D39A2657EC}|TrainingApi.csproj|c:\\users\\kraftwork\\source\\repos\\trainingapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8D8A8C01-6EE8-4ADC-9474-54D39A2657EC}|TrainingApi.csproj|c:\\users\\kraftwork\\desktop\\mvc\\.netmvcexample\\trainingapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8D8A8C01-6EE8-4ADC-9474-54D39A2657EC}|TrainingApi.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8D8A8C01-6EE8-4ADC-9474-54D39A2657EC}|TrainingApi.csproj|c:\\users\\kraftwork\\source\\repos\\trainingapi\\migrations\\20240627042240_first.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8D8A8C01-6EE8-4ADC-9474-54D39A2657EC}|TrainingApi.csproj|solutionrelative:migrations\\20240627042240_first.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8D8A8C01-6EE8-4ADC-9474-54D39A2657EC}|TrainingApi.csproj|c:\\users\\kraftwork\\source\\repos\\trainingapi\\data\\trainingapidbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8D8A8C01-6EE8-4ADC-9474-54D39A2657EC}|TrainingApi.csproj|c:\\users\\kraftwork\\desktop\\mvc\\.netmvcexample\\trainingapi\\data\\trainingapidbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8D8A8C01-6EE8-4ADC-9474-54D39A2657EC}|TrainingApi.csproj|solutionrelative:data\\trainingapidbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8D8A8C01-6EE8-4ADC-9474-54D39A2657EC}|TrainingApi.csproj|c:\\users\\kraftwork\\source\\repos\\trainingapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{8D8A8C01-6EE8-4ADC-9474-54D39A2657EC}|TrainingApi.csproj|c:\\users\\kraftwork\\desktop\\mvc\\.netmvcexample\\trainingapi\\features\\todoitem\\todoresponsemodal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D8A8C01-6EE8-4ADC-9474-54D39A2657EC}|TrainingApi.csproj|solutionrelative:features\\todoitem\\todoresponsemodal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D8A8C01-6EE8-4ADC-9474-54D39A2657EC}|TrainingApi.csproj|c:\\users\\kraftwork\\desktop\\mvc\\.netmvcexample\\trainingapi\\features\\todoitem\\itodoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D8A8C01-6EE8-4ADC-9474-54D39A2657EC}|TrainingApi.csproj|solutionrelative:features\\todoitem\\itodoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D8A8C01-6EE8-4ADC-9474-54D39A2657EC}|TrainingApi.csproj|c:\\users\\kraftwork\\desktop\\mvc\\.netmvcexample\\trainingapi\\features\\todoitem\\todoitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D8A8C01-6EE8-4ADC-9474-54D39A2657EC}|TrainingApi.csproj|solutionrelative:features\\todoitem\\todoitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D8A8C01-6EE8-4ADC-9474-54D39A2657EC}|TrainingApi.csproj|c:\\users\\kraftwork\\desktop\\mvc\\.netmvcexample\\trainingapi\\features\\todoitem\\todoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D8A8C01-6EE8-4ADC-9474-54D39A2657EC}|TrainingApi.csproj|solutionrelative:features\\todoitem\\todoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D8A8C01-6EE8-4ADC-9474-54D39A2657EC}|TrainingApi.csproj|c:\\users\\kraftwork\\desktop\\mvc\\.netmvcexample\\trainingapi\\features\\todoitem\\todoresponsemodallist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D8A8C01-6EE8-4ADC-9474-54D39A2657EC}|TrainingApi.csproj|solutionrelative:features\\todoitem\\todoresponsemodallist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D8A8C01-6EE8-4ADC-9474-54D39A2657EC}|TrainingApi.csproj|c:\\users\\kraftwork\\desktop\\mvc\\.netmvcexample\\trainingapi\\migrations\\20240627042240_first.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D8A8C01-6EE8-4ADC-9474-54D39A2657EC}|TrainingApi.csproj|solutionrelative:migrations\\20240627042240_first.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D8A8C01-6EE8-4ADC-9474-54D39A2657EC}|TrainingApi.csproj|c:\\users\\kraftwork\\desktop\\mvc\\.netmvcexample\\trainingapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{8D8A8C01-6EE8-4ADC-9474-54D39A2657EC}|TrainingApi.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8D8A8C01-6EE8-4ADC-9474-54D39A2657EC}|TrainingApi.csproj|c:\\users\\kraftwork\\source\\repos\\trainingapi\\trainingapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "AbsoluteMoniker": "D:0:0:{8D8A8C01-6EE8-4ADC-9474-54D39A2657EC}|TrainingApi.csproj|c:\\users\\kraftwork\\desktop\\mvc\\.netmvcexample\\trainingapi\\trainingapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
       "RelativeMoniker": "D:0:0:{8D8A8C01-6EE8-4ADC-9474-54D39A2657EC}|TrainingApi.csproj|solutionrelative:trainingapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
     }
   ],
@@ -54,7 +98,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -62,48 +106,206 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BookController.cs",
+              "DocumentMoniker": "C:\\Users\\KraftWork\\Desktop\\mvc\\.netMvcExample\\TrainingApi\\Controllers\\BookController.cs",
+              "RelativeDocumentMoniker": "Controllers\\BookController.cs",
+              "ToolTip": "C:\\Users\\KraftWork\\Desktop\\mvc\\.netMvcExample\\TrainingApi\\Controllers\\BookController.cs",
+              "RelativeToolTip": "Controllers\\BookController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADIAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T06:57:01.591Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AuthorController.cs",
+              "DocumentMoniker": "C:\\Users\\KraftWork\\Desktop\\mvc\\.netMvcExample\\TrainingApi\\Controllers\\AuthorController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AuthorController.cs",
+              "ToolTip": "C:\\Users\\KraftWork\\Desktop\\mvc\\.netMvcExample\\TrainingApi\\Controllers\\AuthorController.cs",
+              "RelativeToolTip": "Controllers\\AuthorController.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAowCUAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T05:00:18.789Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "BookService.cs",
+              "DocumentMoniker": "C:\\Users\\KraftWork\\Desktop\\mvc\\.netMvcExample\\TrainingApi\\Features\\Book\\BookService.cs",
+              "RelativeDocumentMoniker": "Features\\Book\\BookService.cs",
+              "ToolTip": "C:\\Users\\KraftWork\\Desktop\\mvc\\.netMvcExample\\TrainingApi\\Features\\Book\\BookService.cs",
+              "RelativeToolTip": "Features\\Book\\BookService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T04:17:38.958Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IBookService.cs",
+              "DocumentMoniker": "C:\\Users\\KraftWork\\Desktop\\mvc\\.netMvcExample\\TrainingApi\\Features\\Book\\IBookService.cs",
+              "RelativeDocumentMoniker": "Features\\Book\\IBookService.cs",
+              "ToolTip": "C:\\Users\\KraftWork\\Desktop\\mvc\\.netMvcExample\\TrainingApi\\Features\\Book\\IBookService.cs",
+              "RelativeToolTip": "Features\\Book\\IBookService.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAxwAkAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T04:17:20.675Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AuthorService.cs",
+              "DocumentMoniker": "C:\\Users\\KraftWork\\Desktop\\mvc\\.netMvcExample\\TrainingApi\\Features\\Book\\AuthorService.cs",
+              "RelativeDocumentMoniker": "Features\\Book\\AuthorService.cs",
+              "ToolTip": "C:\\Users\\KraftWork\\Desktop\\mvc\\.netMvcExample\\TrainingApi\\Features\\Book\\AuthorService.cs",
+              "RelativeToolTip": "Features\\Book\\AuthorService.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAowEAAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T04:17:09.545Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IAuthorService.cs",
+              "DocumentMoniker": "C:\\Users\\KraftWork\\Desktop\\mvc\\.netMvcExample\\TrainingApi\\Features\\Book\\IAuthorService.cs",
+              "RelativeDocumentMoniker": "Features\\Book\\IAuthorService.cs",
+              "ToolTip": "C:\\Users\\KraftWork\\Desktop\\mvc\\.netMvcExample\\TrainingApi\\Features\\Book\\IAuthorService.cs",
+              "RelativeToolTip": "Features\\Book\\IAuthorService.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAxwAoAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T04:16:58.978Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "20240628042756_two.cs",
+              "DocumentMoniker": "C:\\Users\\KraftWork\\Desktop\\mvc\\.netMvcExample\\TrainingApi\\Migrations\\20240628042756_two.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240628042756_two.cs",
+              "ToolTip": "C:\\Users\\KraftWork\\Desktop\\mvc\\.netMvcExample\\TrainingApi\\Migrations\\20240628042756_two.cs",
+              "RelativeToolTip": "Migrations\\20240628042756_two.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T04:27:57.497Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "TodoItemsController.cs",
-              "DocumentMoniker": "C:\\Users\\KraftWork\\source\\repos\\TrainingApi\\Controllers\\TodoItemsController.cs",
+              "DocumentMoniker": "C:\\Users\\KraftWork\\Desktop\\mvc\\.netMvcExample\\TrainingApi\\Controllers\\TodoItemsController.cs",
               "RelativeDocumentMoniker": "Controllers\\TodoItemsController.cs",
-              "ToolTip": "C:\\Users\\KraftWork\\source\\repos\\TrainingApi\\Controllers\\TodoItemsController.cs",
+              "ToolTip": "C:\\Users\\KraftWork\\Desktop\\mvc\\.netMvcExample\\TrainingApi\\Controllers\\TodoItemsController.cs",
               "RelativeToolTip": "Controllers\\TodoItemsController.cs",
-              "ViewState": "AQIAAE4AAAAAAAAAAAAqwA4AAAAJAAAA",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAC8AAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-27T04:32:49.595Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "TodoResponseModalList.cs",
-              "DocumentMoniker": "C:\\Users\\KraftWork\\source\\repos\\TrainingApi\\Features\\TodoItem\\TodoResponseModalList.cs",
-              "RelativeDocumentMoniker": "Features\\TodoItem\\TodoResponseModalList.cs",
-              "ToolTip": "C:\\Users\\KraftWork\\source\\repos\\TrainingApi\\Features\\TodoItem\\TodoResponseModalList.cs",
-              "RelativeToolTip": "Features\\TodoItem\\TodoResponseModalList.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAABAAAA",
+              "DocumentIndex": 8,
+              "Title": "AuthorDTO.cs",
+              "DocumentMoniker": "C:\\Users\\KraftWork\\Desktop\\mvc\\.netMvcExample\\TrainingApi\\Features\\Book\\AuthorDTO.cs",
+              "RelativeDocumentMoniker": "Features\\Book\\AuthorDTO.cs",
+              "ToolTip": "C:\\Users\\KraftWork\\Desktop\\mvc\\.netMvcExample\\TrainingApi\\Features\\Book\\AuthorDTO.cs",
+              "RelativeToolTip": "Features\\Book\\AuthorDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAxAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-27T05:25:25.715Z"
+              "WhenOpened": "2024-06-28T04:12:57.714Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 10,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\KraftWork\\Desktop\\mvc\\.netMvcExample\\TrainingApi\\Features\\Book\\Book.cs",
+              "RelativeDocumentMoniker": "Features\\Book\\Book.cs",
+              "ToolTip": "C:\\Users\\KraftWork\\Desktop\\mvc\\.netMvcExample\\TrainingApi\\Features\\Book\\Book.cs",
+              "RelativeToolTip": "Features\\Book\\Book.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T04:03:14.971Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Author.cs",
+              "DocumentMoniker": "C:\\Users\\KraftWork\\Desktop\\mvc\\.netMvcExample\\TrainingApi\\Features\\Book\\Author.cs",
+              "RelativeDocumentMoniker": "Features\\Book\\Author.cs",
+              "ToolTip": "C:\\Users\\KraftWork\\Desktop\\mvc\\.netMvcExample\\TrainingApi\\Features\\Book\\Author.cs",
+              "RelativeToolTip": "Features\\Book\\Author.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T04:03:24.709Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "BookDTO.cs",
+              "DocumentMoniker": "C:\\Users\\KraftWork\\Desktop\\mvc\\.netMvcExample\\TrainingApi\\Features\\Book\\BookDTO.cs",
+              "RelativeDocumentMoniker": "Features\\Book\\BookDTO.cs",
+              "ToolTip": "C:\\Users\\KraftWork\\Desktop\\mvc\\.netMvcExample\\TrainingApi\\Features\\Book\\BookDTO.cs",
+              "RelativeToolTip": "Features\\Book\\BookDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T04:13:13.333Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\KraftWork\\Desktop\\mvc\\.netMvcExample\\TrainingApi\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\KraftWork\\Desktop\\mvc\\.netMvcExample\\TrainingApi\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwBQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T04:18:23.113Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "TrainingApiDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\KraftWork\\Desktop\\mvc\\.netMvcExample\\TrainingApi\\Data\\TrainingApiDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\TrainingApiDbContext.cs",
+              "ToolTip": "C:\\Users\\KraftWork\\Desktop\\mvc\\.netMvcExample\\TrainingApi\\Data\\TrainingApiDbContext.cs",
+              "RelativeToolTip": "Data\\TrainingApiDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T04:13:56.752Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
               "Title": "TodoResponseModal.cs",
-              "DocumentMoniker": "C:\\Users\\KraftWork\\source\\repos\\TrainingApi\\Features\\TodoItem\\TodoResponseModal.cs",
+              "DocumentMoniker": "C:\\Users\\KraftWork\\Desktop\\mvc\\.netMvcExample\\TrainingApi\\Features\\TodoItem\\TodoResponseModal.cs",
               "RelativeDocumentMoniker": "Features\\TodoItem\\TodoResponseModal.cs",
-              "ToolTip": "C:\\Users\\KraftWork\\source\\repos\\TrainingApi\\Features\\TodoItem\\TodoResponseModal.cs",
+              "ToolTip": "C:\\Users\\KraftWork\\Desktop\\mvc\\.netMvcExample\\TrainingApi\\Features\\TodoItem\\TodoResponseModal.cs",
               "RelativeToolTip": "Features\\TodoItem\\TodoResponseModal.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-27T05:25:03.607Z"
+              "WhenOpened": "2024-06-27T05:25:03.607Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 17,
               "Title": "TodoService.cs",
-              "DocumentMoniker": "C:\\Users\\KraftWork\\source\\repos\\TrainingApi\\Features\\TodoItem\\TodoService.cs",
+              "DocumentMoniker": "C:\\Users\\KraftWork\\Desktop\\mvc\\.netMvcExample\\TrainingApi\\Features\\TodoItem\\TodoService.cs",
               "RelativeDocumentMoniker": "Features\\TodoItem\\TodoService.cs",
-              "ToolTip": "C:\\Users\\KraftWork\\source\\repos\\TrainingApi\\Features\\TodoItem\\TodoService.cs",
+              "ToolTip": "C:\\Users\\KraftWork\\Desktop\\mvc\\.netMvcExample\\TrainingApi\\Features\\TodoItem\\TodoService.cs",
               "RelativeToolTip": "Features\\TodoItem\\TodoService.cs",
               "ViewState": "AQIAABIAAAAAAAAAAAAowDUAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -111,11 +313,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 16,
               "Title": "TodoItem.cs",
-              "DocumentMoniker": "C:\\Users\\KraftWork\\source\\repos\\TrainingApi\\Features\\TodoItem\\TodoItem.cs",
+              "DocumentMoniker": "C:\\Users\\KraftWork\\Desktop\\mvc\\.netMvcExample\\TrainingApi\\Features\\TodoItem\\TodoItem.cs",
               "RelativeDocumentMoniker": "Features\\TodoItem\\TodoItem.cs",
-              "ToolTip": "C:\\Users\\KraftWork\\source\\repos\\TrainingApi\\Features\\TodoItem\\TodoItem.cs",
+              "ToolTip": "C:\\Users\\KraftWork\\Desktop\\mvc\\.netMvcExample\\TrainingApi\\Features\\TodoItem\\TodoItem.cs",
               "RelativeToolTip": "Features\\TodoItem\\TodoItem.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAVAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -123,11 +325,23 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 18,
+              "Title": "TodoResponseModalList.cs",
+              "DocumentMoniker": "C:\\Users\\KraftWork\\Desktop\\mvc\\.netMvcExample\\TrainingApi\\Features\\TodoItem\\TodoResponseModalList.cs",
+              "RelativeDocumentMoniker": "Features\\TodoItem\\TodoResponseModalList.cs",
+              "ToolTip": "C:\\Users\\KraftWork\\Desktop\\mvc\\.netMvcExample\\TrainingApi\\Features\\TodoItem\\TodoResponseModalList.cs",
+              "RelativeToolTip": "Features\\TodoItem\\TodoResponseModalList.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T05:25:25.715Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
               "Title": "ITodoService.cs",
-              "DocumentMoniker": "C:\\Users\\KraftWork\\source\\repos\\TrainingApi\\Features\\TodoItem\\ITodoService.cs",
+              "DocumentMoniker": "C:\\Users\\KraftWork\\Desktop\\mvc\\.netMvcExample\\TrainingApi\\Features\\TodoItem\\ITodoService.cs",
               "RelativeDocumentMoniker": "Features\\TodoItem\\ITodoService.cs",
-              "ToolTip": "C:\\Users\\KraftWork\\source\\repos\\TrainingApi\\Features\\TodoItem\\ITodoService.cs",
+              "ToolTip": "C:\\Users\\KraftWork\\Desktop\\mvc\\.netMvcExample\\TrainingApi\\Features\\TodoItem\\ITodoService.cs",
               "RelativeToolTip": "Features\\TodoItem\\ITodoService.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAuAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -135,11 +349,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 20,
               "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\KraftWork\\source\\repos\\TrainingApi\\appsettings.json",
+              "DocumentMoniker": "C:\\Users\\KraftWork\\Desktop\\mvc\\.netMvcExample\\TrainingApi\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
-              "ToolTip": "C:\\Users\\KraftWork\\source\\repos\\TrainingApi\\appsettings.json",
+              "ToolTip": "C:\\Users\\KraftWork\\Desktop\\mvc\\.netMvcExample\\TrainingApi\\appsettings.json",
               "RelativeToolTip": "appsettings.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAWAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
@@ -147,23 +361,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\KraftWork\\source\\repos\\TrainingApi\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\KraftWork\\source\\repos\\TrainingApi\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAA4AAAAAAAAAAAAAABQAAABEAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-27T04:18:23.113Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 19,
               "Title": "20240627042240_first.cs",
-              "DocumentMoniker": "C:\\Users\\KraftWork\\source\\repos\\TrainingApi\\Migrations\\20240627042240_first.cs",
+              "DocumentMoniker": "C:\\Users\\KraftWork\\Desktop\\mvc\\.netMvcExample\\TrainingApi\\Migrations\\20240627042240_first.cs",
               "RelativeDocumentMoniker": "Migrations\\20240627042240_first.cs",
-              "ToolTip": "C:\\Users\\KraftWork\\source\\repos\\TrainingApi\\Migrations\\20240627042240_first.cs",
+              "ToolTip": "C:\\Users\\KraftWork\\Desktop\\mvc\\.netMvcExample\\TrainingApi\\Migrations\\20240627042240_first.cs",
               "RelativeToolTip": "Migrations\\20240627042240_first.cs",
               "ViewState": "AQIAABIAAAAAAAAAAAAqwAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -171,23 +373,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "TrainingApiDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\KraftWork\\source\\repos\\TrainingApi\\Data\\TrainingApiDbContext.cs",
-              "RelativeDocumentMoniker": "Data\\TrainingApiDbContext.cs",
-              "ToolTip": "C:\\Users\\KraftWork\\source\\repos\\TrainingApi\\Data\\TrainingApiDbContext.cs",
-              "RelativeToolTip": "Data\\TrainingApiDbContext.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAA2AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-27T04:13:56.752Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 21,
               "Title": "TrainingApi.http",
-              "DocumentMoniker": "C:\\Users\\KraftWork\\source\\repos\\TrainingApi\\TrainingApi.http",
+              "DocumentMoniker": "C:\\Users\\KraftWork\\Desktop\\mvc\\.netMvcExample\\TrainingApi\\TrainingApi.http",
               "RelativeDocumentMoniker": "TrainingApi.http",
-              "ToolTip": "C:\\Users\\KraftWork\\source\\repos\\TrainingApi\\TrainingApi.http",
+              "ToolTip": "C:\\Users\\KraftWork\\Desktop\\mvc\\.netMvcExample\\TrainingApi\\TrainingApi.http",
               "RelativeToolTip": "TrainingApi.http",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",

@@ -1,6 +1,7 @@
 
 using Microsoft.EntityFrameworkCore;
 using TrainingApi.Data;
+using TrainingApi.Features.Book;
 using TrainingApi.Features.TodoItem;
 
 namespace TrainingApi
@@ -19,6 +20,8 @@ namespace TrainingApi
             builder.Services.AddSwaggerGen();
 
             builder.Services.AddScoped<ITodoService, TodoService>();
+            builder.Services.AddScoped<IAuthorService, AuthorService>();
+            builder.Services.AddScoped<IBookService, BookService>();
 
             builder.Services.AddDbContext<TrainingApiDbContext>(options =>
                 options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")
