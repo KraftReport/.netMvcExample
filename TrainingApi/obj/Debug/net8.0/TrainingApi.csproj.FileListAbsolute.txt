@@ -514,3 +514,6 @@ C:\Users\KraftWork\Desktop\mvc\.netMvcExample\TrainingApi\bin\Debug\net8.0\Seril
 C:\Users\KraftWork\Desktop\mvc\.netMvcExample\TrainingApi\bin\Debug\net8.0\Serilog.Sinks.Debug.dll
 C:\Users\KraftWork\Desktop\mvc\.netMvcExample\TrainingApi\bin\Debug\net8.0\Serilog.Sinks.File.dll
 C:\Users\KraftWork\Desktop\mvc\.netMvcExample\TrainingApi\bin\Debug\net8.0\Serilog.Sinks.Http.dll
+C:\Users\KraftWork\Desktop\mvc\.netMvcExample\TrainingApi\bin\Debug\net8.0\FluentValidation.dll
+C:\Users\KraftWork\Desktop\mvc\.netMvcExample\TrainingApi\bin\Debug\net8.0\FluentValidation.AspNetCore.dll
+C:\Users\KraftWork\Desktop\mvc\.netMvcExample\TrainingApi\bin\Debug\net8.0\FluentValidation.DependencyInjectionExtensions.dll

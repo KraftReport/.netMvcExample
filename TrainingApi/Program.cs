@@ -6,6 +6,9 @@ using TrainingApi.Features.Book;
 using TrainingApi.Features.TodoItem;
 using TrainingApi.Middlewares;
 using Serilog;
+using FluentValidation.AspNetCore;
+using FluentValidation;
+using Microsoft.AspNetCore.Identity;
 
 namespace TrainingApi
 {
@@ -17,14 +20,19 @@ namespace TrainingApi
 
             // Add services to the container.
 
-            builder.Services.AddControllers();
+            //builder.Services.AddControllers();
+            builder.Services.AddControllers(options => options.Filters
+                .Add(typeof(TodoValidateFilter)));
             // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
             builder.Services.AddEndpointsApiExplorer();
             builder.Services.AddSwaggerGen();
             builder.Services.AddHttpClient("jokes", x => { x.BaseAddress = new Uri("http://universities.hipolabs.com/"); });
             builder.Services.AddScoped<ITodoService, TodoService>();
             builder.Services.AddScoped<IAuthorService, AuthorService>();
-            builder.Services.AddScoped<IBookService, BookService>(); 
+            builder.Services.AddScoped<IBookService, BookService>();
+            builder.Services.AddFluentValidationAutoValidation()
+                .AddFluentValidationClientsideAdapters()
+                .AddValidatorsFromAssemblyContaining<TodoItemValidator>();
 
             Log.Logger = new LoggerConfiguration()
                 .WriteTo.Console()
@@ -32,8 +40,6 @@ namespace TrainingApi
                 .CreateLogger();
 
             builder.Host.UseSerilog();
-
- 
 
             builder.Services.AddDbContext<TrainingApiDbContext>(options =>
                 options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")

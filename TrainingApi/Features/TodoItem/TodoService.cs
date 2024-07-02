@@ -1,4 +1,5 @@
-﻿using Microsoft.EntityFrameworkCore;
+﻿using FluentValidation;
+using Microsoft.EntityFrameworkCore;
 using TrainingApi.Data;
 
 namespace TrainingApi.Features.TodoItem
@@ -6,10 +7,17 @@ namespace TrainingApi.Features.TodoItem
     public class TodoService : ITodoService
     {
         private readonly TrainingApiDbContext _context;
+        private readonly IValidator<TodoItem> _validator;
 
-        public TodoService(TrainingApiDbContext context)
+        public TodoService(TrainingApiDbContext context,IValidator<TodoItem> validator)
         {
+            _validator = validator;
             _context = context;
+        }
+
+        public void ValidateTodoItem(TodoItem todoItem)
+        {
+            _validator.ValidateAndThrow(todoItem);
         }
 
         public async Task<bool> CreateATodo(TodoItem todoItem)

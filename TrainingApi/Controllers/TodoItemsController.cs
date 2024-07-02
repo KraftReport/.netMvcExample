@@ -68,8 +68,19 @@ namespace TrainingApi.Controllers
         // To protect from overposting attacks, see https://go.microsoft.com/fwlink/?linkid=2123754
         [HttpPost]
         public async Task<IActionResult> CreateATodo([FromBody]TodoItem todoItem)
-        {  
-                var result = await _todoService.CreateATodo(todoItem);
+        {
+
+            if (!ModelState.IsValid)
+            {
+                var messages = ModelState
+                  .SelectMany(modelState => modelState.Value.Errors)
+                  .Select(err => err.ErrorMessage)
+                  .ToList();
+
+                return BadRequest(messages);
+            }
+
+            var result = await _todoService.CreateATodo(todoItem);
                 string message = result  ? "Saving Success" : "Saving Failed.";
                 var data = new TodoResponseModal()
                 {
