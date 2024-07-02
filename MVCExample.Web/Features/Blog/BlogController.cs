@@ -1,6 +1,7 @@
 using Microsoft.AspNetCore.Mvc;
 using MVCExample.Web.Features.Base;
 using MVCExample.Web.Features.DataTable;
+using System.Text.Json.Serialization;
 
 namespace MVCExample.Web.Features.Blog;
 

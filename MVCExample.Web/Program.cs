@@ -18,8 +18,10 @@ builder.Services.AddScoped<IBlogService,BlogService>();
 builder.Services.AddScoped<IBookService,BookService>();
 builder.Services.AddRazorPages().AddRazorRuntimeCompilation();
 builder.Services.AddControllersWithViews();
-
-
+builder.Services.AddHttpClient("todoApi", x =>
+{
+    x.BaseAddress = new Uri("https://localhost:7071/");
+});
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.

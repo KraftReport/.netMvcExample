@@ -3,12 +3,44 @@
   "WorkspaceRootPath": "C:\\Users\\KraftWork\\Desktop\\mvc\\.netMvcExample\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A15A2959-994E-4C26-873E-B7576664F03E}|MVCExample.Web\\MVCExample.Web.csproj|c:\\users\\kraftwork\\desktop\\mvc\\.netmvcexample\\mvcexample.web\\views\\book\\bookview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A15A2959-994E-4C26-873E-B7576664F03E}|MVCExample.Web\\MVCExample.Web.csproj|solutionrelative:mvcexample.web\\views\\book\\bookview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A15A2959-994E-4C26-873E-B7576664F03E}|MVCExample.Web\\MVCExample.Web.csproj|c:\\users\\kraftwork\\desktop\\mvc\\.netmvcexample\\mvcexample.web\\views\\todo\\todoview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A15A2959-994E-4C26-873E-B7576664F03E}|MVCExample.Web\\MVCExample.Web.csproj|solutionrelative:mvcexample.web\\views\\todo\\todoview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A15A2959-994E-4C26-873E-B7576664F03E}|MVCExample.Web\\MVCExample.Web.csproj|c:\\users\\kraftwork\\desktop\\mvc\\.netmvcexample\\mvcexample.web\\views\\todo\\createtodo.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A15A2959-994E-4C26-873E-B7576664F03E}|MVCExample.Web\\MVCExample.Web.csproj|solutionrelative:mvcexample.web\\views\\todo\\createtodo.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A15A2959-994E-4C26-873E-B7576664F03E}|MVCExample.Web\\MVCExample.Web.csproj|c:\\users\\kraftwork\\desktop\\mvc\\.netmvcexample\\mvcexample.web\\features\\todo\\todocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A15A2959-994E-4C26-873E-B7576664F03E}|MVCExample.Web\\MVCExample.Web.csproj|solutionrelative:mvcexample.web\\features\\todo\\todocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A15A2959-994E-4C26-873E-B7576664F03E}|MVCExample.Web\\MVCExample.Web.csproj|c:\\users\\kraftwork\\desktop\\mvc\\.netmvcexample\\mvcexample.web\\features\\todo\\todoitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A15A2959-994E-4C26-873E-B7576664F03E}|MVCExample.Web\\MVCExample.Web.csproj|solutionrelative:mvcexample.web\\features\\todo\\todoitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A15A2959-994E-4C26-873E-B7576664F03E}|MVCExample.Web\\MVCExample.Web.csproj|c:\\users\\kraftwork\\desktop\\mvc\\.netmvcexample\\mvcexample.web\\views\\todo\\edittodo.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A15A2959-994E-4C26-873E-B7576664F03E}|MVCExample.Web\\MVCExample.Web.csproj|solutionrelative:mvcexample.web\\views\\todo\\edittodo.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A15A2959-994E-4C26-873E-B7576664F03E}|MVCExample.Web\\MVCExample.Web.csproj|c:\\users\\kraftwork\\desktop\\mvc\\.netmvcexample\\mvcexample.web\\features\\layoutservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A15A2959-994E-4C26-873E-B7576664F03E}|MVCExample.Web\\MVCExample.Web.csproj|solutionrelative:mvcexample.web\\features\\layoutservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A15A2959-994E-4C26-873E-B7576664F03E}|MVCExample.Web\\MVCExample.Web.csproj|c:\\users\\kraftwork\\desktop\\mvc\\.netmvcexample\\mvcexample.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A15A2959-994E-4C26-873E-B7576664F03E}|MVCExample.Web\\MVCExample.Web.csproj|solutionrelative:mvcexample.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A15A2959-994E-4C26-873E-B7576664F03E}|MVCExample.Web\\MVCExample.Web.csproj|c:\\users\\kraftwork\\desktop\\mvc\\.netmvcexample\\mvcexample.web\\features\\todo\\todoresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A15A2959-994E-4C26-873E-B7576664F03E}|MVCExample.Web\\MVCExample.Web.csproj|solutionrelative:mvcexample.web\\features\\todo\\todoresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A15A2959-994E-4C26-873E-B7576664F03E}|MVCExample.Web\\MVCExample.Web.csproj|c:\\users\\kraftwork\\desktop\\mvc\\.netmvcexample\\mvcexample.web\\views\\book\\editpage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{A15A2959-994E-4C26-873E-B7576664F03E}|MVCExample.Web\\MVCExample.Web.csproj|solutionrelative:mvcexample.web\\views\\book\\editpage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A15A2959-994E-4C26-873E-B7576664F03E}|MVCExample.Web\\MVCExample.Web.csproj|c:\\users\\kraftwork\\desktop\\mvc\\.netmvcexample\\mvcexample.web\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A15A2959-994E-4C26-873E-B7576664F03E}|MVCExample.Web\\MVCExample.Web.csproj|solutionrelative:mvcexample.web\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A15A2959-994E-4C26-873E-B7576664F03E}|MVCExample.Web\\MVCExample.Web.csproj|c:\\users\\kraftwork\\desktop\\mvc\\.netmvcexample\\mvcexample.web\\views\\book\\createbook.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -17,6 +49,54 @@
     {
       "AbsoluteMoniker": "D:0:0:{A15A2959-994E-4C26-873E-B7576664F03E}|MVCExample.Web\\MVCExample.Web.csproj|c:\\users\\kraftwork\\desktop\\mvc\\.netmvcexample\\mvcexample.web\\features\\book\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A15A2959-994E-4C26-873E-B7576664F03E}|MVCExample.Web\\MVCExample.Web.csproj|solutionrelative:mvcexample.web\\features\\book\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A15A2959-994E-4C26-873E-B7576664F03E}|MVCExample.Web\\MVCExample.Web.csproj|c:\\users\\kraftwork\\desktop\\mvc\\.netmvcexample\\mvcexample.web\\views\\blog\\editblog.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A15A2959-994E-4C26-873E-B7576664F03E}|MVCExample.Web\\MVCExample.Web.csproj|solutionrelative:mvcexample.web\\views\\blog\\editblog.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A15A2959-994E-4C26-873E-B7576664F03E}|MVCExample.Web\\MVCExample.Web.csproj|c:\\users\\kraftwork\\desktop\\mvc\\.netmvcexample\\mvcexample.web\\views\\blog\\createblog.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A15A2959-994E-4C26-873E-B7576664F03E}|MVCExample.Web\\MVCExample.Web.csproj|solutionrelative:mvcexample.web\\views\\blog\\createblog.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A15A2959-994E-4C26-873E-B7576664F03E}|MVCExample.Web\\MVCExample.Web.csproj|c:\\users\\kraftwork\\desktop\\mvc\\.netmvcexample\\mvcexample.web\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A15A2959-994E-4C26-873E-B7576664F03E}|MVCExample.Web\\MVCExample.Web.csproj|solutionrelative:mvcexample.web\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A15A2959-994E-4C26-873E-B7576664F03E}|MVCExample.Web\\MVCExample.Web.csproj|c:\\users\\kraftwork\\desktop\\mvc\\.netmvcexample\\mvcexample.web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A15A2959-994E-4C26-873E-B7576664F03E}|MVCExample.Web\\MVCExample.Web.csproj|solutionrelative:mvcexample.web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A15A2959-994E-4C26-873E-B7576664F03E}|MVCExample.Web\\MVCExample.Web.csproj|c:\\users\\kraftwork\\desktop\\mvc\\.netmvcexample\\mvcexample.web\\views\\shared\\_header.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A15A2959-994E-4C26-873E-B7576664F03E}|MVCExample.Web\\MVCExample.Web.csproj|solutionrelative:mvcexample.web\\views\\shared\\_header.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A15A2959-994E-4C26-873E-B7576664F03E}|MVCExample.Web\\MVCExample.Web.csproj|c:\\users\\kraftwork\\desktop\\mvc\\.netmvcexample\\mvcexample.web\\views\\shared\\_mainsidebar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A15A2959-994E-4C26-873E-B7576664F03E}|MVCExample.Web\\MVCExample.Web.csproj|solutionrelative:mvcexample.web\\views\\shared\\_mainsidebar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A15A2959-994E-4C26-873E-B7576664F03E}|MVCExample.Web\\MVCExample.Web.csproj|c:\\users\\kraftwork\\desktop\\mvc\\.netmvcexample\\mvcexample.web\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A15A2959-994E-4C26-873E-B7576664F03E}|MVCExample.Web\\MVCExample.Web.csproj|solutionrelative:mvcexample.web\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A15A2959-994E-4C26-873E-B7576664F03E}|MVCExample.Web\\MVCExample.Web.csproj|c:\\users\\kraftwork\\desktop\\mvc\\.netmvcexample\\mvcexample.web\\features\\blog\\blogdatamodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A15A2959-994E-4C26-873E-B7576664F03E}|MVCExample.Web\\MVCExample.Web.csproj|solutionrelative:mvcexample.web\\features\\blog\\blogdatamodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A15A2959-994E-4C26-873E-B7576664F03E}|MVCExample.Web\\MVCExample.Web.csproj|c:\\users\\kraftwork\\desktop\\mvc\\.netmvcexample\\mvcexample.web\\features\\todo\\todoresponsedtolist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A15A2959-994E-4C26-873E-B7576664F03E}|MVCExample.Web\\MVCExample.Web.csproj|solutionrelative:mvcexample.web\\features\\todo\\todoresponsedtolist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A15A2959-994E-4C26-873E-B7576664F03E}|MVCExample.Web\\MVCExample.Web.csproj|c:\\users\\kraftwork\\desktop\\mvc\\.netmvcexample\\mvcexample.web\\features\\blog\\blogcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A15A2959-994E-4C26-873E-B7576664F03E}|MVCExample.Web\\MVCExample.Web.csproj|solutionrelative:mvcexample.web\\features\\blog\\blogcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A15A2959-994E-4C26-873E-B7576664F03E}|MVCExample.Web\\MVCExample.Web.csproj|c:\\users\\kraftwork\\desktop\\mvc\\.netmvcexample\\mvcexample.web\\views\\book\\bookview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A15A2959-994E-4C26-873E-B7576664F03E}|MVCExample.Web\\MVCExample.Web.csproj|solutionrelative:mvcexample.web\\views\\book\\bookview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A15A2959-994E-4C26-873E-B7576664F03E}|MVCExample.Web\\MVCExample.Web.csproj|c:\\users\\kraftwork\\desktop\\mvc\\.netmvcexample\\mvcexample.web\\views\\blog\\modals.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A15A2959-994E-4C26-873E-B7576664F03E}|MVCExample.Web\\MVCExample.Web.csproj|solutionrelative:mvcexample.web\\views\\blog\\modals.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A15A2959-994E-4C26-873E-B7576664F03E}|MVCExample.Web\\MVCExample.Web.csproj|c:\\users\\kraftwork\\desktop\\mvc\\.netmvcexample\\mvcexample.web\\features\\book\\bookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -29,14 +109,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{A15A2959-994E-4C26-873E-B7576664F03E}|MVCExample.Web\\MVCExample.Web.csproj|c:\\users\\kraftwork\\desktop\\mvc\\.netmvcexample\\mvcexample.web\\views\\shared\\_styles.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{A15A2959-994E-4C26-873E-B7576664F03E}|MVCExample.Web\\MVCExample.Web.csproj|solutionrelative:mvcexample.web\\views\\shared\\_styles.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A15A2959-994E-4C26-873E-B7576664F03E}|MVCExample.Web\\MVCExample.Web.csproj|c:\\users\\kraftwork\\desktop\\mvc\\.netmvcexample\\mvcexample.web\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A15A2959-994E-4C26-873E-B7576664F03E}|MVCExample.Web\\MVCExample.Web.csproj|solutionrelative:mvcexample.web\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A15A2959-994E-4C26-873E-B7576664F03E}|MVCExample.Web\\MVCExample.Web.csproj|c:\\users\\kraftwork\\desktop\\mvc\\.netmvcexample\\mvcexample.web\\views\\shared\\_mainsidebar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A15A2959-994E-4C26-873E-B7576664F03E}|MVCExample.Web\\MVCExample.Web.csproj|solutionrelative:mvcexample.web\\views\\shared\\_mainsidebar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A15A2959-994E-4C26-873E-B7576664F03E}|MVCExample.Web\\MVCExample.Web.csproj|c:\\users\\kraftwork\\desktop\\mvc\\.netmvcexample\\mvcexample.web\\features\\book\\ibookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -67,36 +139,12 @@
       "RelativeMoniker": "D:0:0:{A15A2959-994E-4C26-873E-B7576664F03E}|MVCExample.Web\\MVCExample.Web.csproj|solutionrelative:mvcexample.web\\features\\base\\basedatamodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A15A2959-994E-4C26-873E-B7576664F03E}|MVCExample.Web\\MVCExample.Web.csproj|c:\\users\\kraftwork\\desktop\\mvc\\.netmvcexample\\mvcexample.web\\features\\blog\\blogcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A15A2959-994E-4C26-873E-B7576664F03E}|MVCExample.Web\\MVCExample.Web.csproj|solutionrelative:mvcexample.web\\features\\blog\\blogcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A15A2959-994E-4C26-873E-B7576664F03E}|MVCExample.Web\\MVCExample.Web.csproj|c:\\users\\kraftwork\\desktop\\mvc\\.netmvcexample\\mvcexample.web\\features\\blog\\blogdatamodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A15A2959-994E-4C26-873E-B7576664F03E}|MVCExample.Web\\MVCExample.Web.csproj|solutionrelative:mvcexample.web\\features\\blog\\blogdatamodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A15A2959-994E-4C26-873E-B7576664F03E}|MVCExample.Web\\MVCExample.Web.csproj|c:\\users\\kraftwork\\desktop\\mvc\\.netmvcexample\\mvcexample.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A15A2959-994E-4C26-873E-B7576664F03E}|MVCExample.Web\\MVCExample.Web.csproj|solutionrelative:mvcexample.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A15A2959-994E-4C26-873E-B7576664F03E}|MVCExample.Web\\MVCExample.Web.csproj|c:\\users\\kraftwork\\desktop\\mvc\\.netmvcexample\\mvcexample.web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A15A2959-994E-4C26-873E-B7576664F03E}|MVCExample.Web\\MVCExample.Web.csproj|solutionrelative:mvcexample.web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A15A2959-994E-4C26-873E-B7576664F03E}|MVCExample.Web\\MVCExample.Web.csproj|c:\\users\\kraftwork\\desktop\\mvc\\.netmvcexample\\mvcexample.web\\views\\blog\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{A15A2959-994E-4C26-873E-B7576664F03E}|MVCExample.Web\\MVCExample.Web.csproj|solutionrelative:mvcexample.web\\views\\blog\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A15A2959-994E-4C26-873E-B7576664F03E}|MVCExample.Web\\MVCExample.Web.csproj|c:\\users\\kraftwork\\desktop\\mvc\\.netmvcexample\\mvcexample.web\\views\\blog\\createblog.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A15A2959-994E-4C26-873E-B7576664F03E}|MVCExample.Web\\MVCExample.Web.csproj|solutionrelative:mvcexample.web\\views\\blog\\createblog.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A15A2959-994E-4C26-873E-B7576664F03E}|MVCExample.Web\\MVCExample.Web.csproj|c:\\users\\kraftwork\\desktop\\mvc\\.netmvcexample\\mvcexample.web\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{A15A2959-994E-4C26-873E-B7576664F03E}|MVCExample.Web\\MVCExample.Web.csproj|solutionrelative:mvcexample.web\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A15A2959-994E-4C26-873E-B7576664F03E}|MVCExample.Web\\MVCExample.Web.csproj|c:\\users\\kraftwork\\desktop\\mvc\\.netmvcexample\\mvcexample.web\\views\\shared\\_header.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A15A2959-994E-4C26-873E-B7576664F03E}|MVCExample.Web\\MVCExample.Web.csproj|solutionrelative:mvcexample.web\\views\\shared\\_header.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A15A2959-994E-4C26-873E-B7576664F03E}|MVCExample.Web\\MVCExample.Web.csproj|c:\\users\\kraftwork\\desktop\\mvc\\.netmvcexample\\mvcexample.web\\views\\shared\\_scripts.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -109,10 +157,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{A15A2959-994E-4C26-873E-B7576664F03E}|MVCExample.Web\\MVCExample.Web.csproj|c:\\users\\kraftwork\\desktop\\mvc\\.netmvcexample\\mvcexample.web\\features\\book\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A15A2959-994E-4C26-873E-B7576664F03E}|MVCExample.Web\\MVCExample.Web.csproj|solutionrelative:mvcexample.web\\features\\book\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A15A2959-994E-4C26-873E-B7576664F03E}|MVCExample.Web\\MVCExample.Web.csproj|c:\\users\\kraftwork\\desktop\\mvc\\.netmvcexample\\mvcexample.web\\views\\blog\\modals.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A15A2959-994E-4C26-873E-B7576664F03E}|MVCExample.Web\\MVCExample.Web.csproj|solutionrelative:mvcexample.web\\views\\blog\\modals.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A15A2959-994E-4C26-873E-B7576664F03E}|MVCExample.Web\\MVCExample.Web.csproj|c:\\users\\kraftwork\\desktop\\mvc\\.netmvcexample\\mvcexample.web\\efdbcontext\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -134,7 +178,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -143,97 +187,240 @@
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "Book.cs",
-              "DocumentMoniker": "C:\\Users\\KraftWork\\Desktop\\mvc\\.netMvcExample\\MVCExample.Web\\Features\\Book\\Book.cs",
-              "RelativeDocumentMoniker": "MVCExample.Web\\Features\\Book\\Book.cs",
-              "ToolTip": "C:\\Users\\KraftWork\\Desktop\\mvc\\.netMvcExample\\MVCExample.Web\\Features\\Book\\Book.cs",
-              "RelativeToolTip": "MVCExample.Web\\Features\\Book\\Book.cs",
-              "ViewState": "AQIAAAoAAAAAAAAAAAAgwAoAAAAcAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-26T08:30:52.816Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "BookService.cs",
-              "DocumentMoniker": "C:\\Users\\KraftWork\\Desktop\\mvc\\.netMvcExample\\MVCExample.Web\\Features\\Book\\BookService.cs",
-              "RelativeDocumentMoniker": "MVCExample.Web\\Features\\Book\\BookService.cs",
-              "ToolTip": "C:\\Users\\KraftWork\\Desktop\\mvc\\.netMvcExample\\MVCExample.Web\\Features\\Book\\BookService.cs",
-              "RelativeToolTip": "MVCExample.Web\\Features\\Book\\BookService.cs",
-              "ViewState": "AQIAACkAAAAAAAAAAAAqwA4AAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-26T08:38:10.369Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "_Styles.cshtml",
-              "DocumentMoniker": "C:\\Users\\KraftWork\\Desktop\\mvc\\.netMvcExample\\MVCExample.Web\\Views\\Shared\\_Styles.cshtml",
-              "RelativeDocumentMoniker": "MVCExample.Web\\Views\\Shared\\_Styles.cshtml",
-              "ToolTip": "C:\\Users\\KraftWork\\Desktop\\mvc\\.netMvcExample\\MVCExample.Web\\Views\\Shared\\_Styles.cshtml",
-              "RelativeToolTip": "MVCExample.Web\\Views\\Shared\\_Styles.cshtml",
+              "Title": "LayoutService.cs",
+              "DocumentMoniker": "C:\\Users\\KraftWork\\Desktop\\mvc\\.netMvcExample\\MVCExample.Web\\Features\\LayoutService.cs",
+              "RelativeDocumentMoniker": "MVCExample.Web\\Features\\LayoutService.cs",
+              "ToolTip": "C:\\Users\\KraftWork\\Desktop\\mvc\\.netMvcExample\\MVCExample.Web\\Features\\LayoutService.cs",
+              "RelativeToolTip": "MVCExample.Web\\Features\\LayoutService.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-26T09:41:52.394Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "BookView.cshtml",
-              "DocumentMoniker": "C:\\Users\\KraftWork\\Desktop\\mvc\\.netMvcExample\\MVCExample.Web\\Views\\Book\\BookView.cshtml",
-              "RelativeDocumentMoniker": "MVCExample.Web\\Views\\Book\\BookView.cshtml",
-              "ToolTip": "C:\\Users\\KraftWork\\Desktop\\mvc\\.netMvcExample\\MVCExample.Web\\Views\\Book\\BookView.cshtml",
-              "RelativeToolTip": "MVCExample.Web\\Views\\Book\\BookView.cshtml",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAADYAAABTAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-26T10:00:44.043Z",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T10:11:21.663Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "CreateBook.cshtml",
-              "DocumentMoniker": "C:\\Users\\KraftWork\\Desktop\\mvc\\.netMvcExample\\MVCExample.Web\\Views\\Book\\CreateBook.cshtml",
-              "RelativeDocumentMoniker": "MVCExample.Web\\Views\\Book\\CreateBook.cshtml",
-              "ToolTip": "C:\\Users\\KraftWork\\Desktop\\mvc\\.netMvcExample\\MVCExample.Web\\Views\\Book\\CreateBook.cshtml",
-              "RelativeToolTip": "MVCExample.Web\\Views\\Book\\CreateBook.cshtml",
-              "ViewState": "AQIAACEAAAAAAAAAAAAAAAoAAAAZAAAA",
+              "Title": "TodoController.cs",
+              "DocumentMoniker": "C:\\Users\\KraftWork\\Desktop\\mvc\\.netMvcExample\\MVCExample.Web\\Features\\Todo\\TodoController.cs",
+              "RelativeDocumentMoniker": "MVCExample.Web\\Features\\Todo\\TodoController.cs",
+              "ToolTip": "C:\\Users\\KraftWork\\Desktop\\mvc\\.netMvcExample\\MVCExample.Web\\Features\\Todo\\TodoController.cs",
+              "RelativeToolTip": "MVCExample.Web\\Features\\Todo\\TodoController.cs",
+              "ViewState": "AQIAAE4AAAAAAAAAAAAqwFsAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T04:38:45.7Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TodoView.cshtml",
+              "DocumentMoniker": "C:\\Users\\KraftWork\\Desktop\\mvc\\.netMvcExample\\MVCExample.Web\\Views\\Todo\\TodoView.cshtml",
+              "RelativeDocumentMoniker": "MVCExample.Web\\Views\\Todo\\TodoView.cshtml",
+              "ToolTip": "C:\\Users\\KraftWork\\Desktop\\mvc\\.netMvcExample\\MVCExample.Web\\Views\\Todo\\TodoView.cshtml",
+              "RelativeToolTip": "MVCExample.Web\\Views\\Todo\\TodoView.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFEAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-26T09:17:16.263Z",
+              "WhenOpened": "2024-07-01T04:39:26.307Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "BookController.cs",
-              "DocumentMoniker": "C:\\Users\\KraftWork\\Desktop\\mvc\\.netMvcExample\\MVCExample.Web\\Features\\Book\\BookController.cs",
-              "RelativeDocumentMoniker": "MVCExample.Web\\Features\\Book\\BookController.cs",
-              "ToolTip": "C:\\Users\\KraftWork\\Desktop\\mvc\\.netMvcExample\\MVCExample.Web\\Features\\Book\\BookController.cs",
-              "RelativeToolTip": "MVCExample.Web\\Features\\Book\\BookController.cs",
-              "ViewState": "AQIAAGYAAAAAAAAAAAAAAC4AAAAlAAAA",
+              "Title": "TodoItemDTO.cs",
+              "DocumentMoniker": "C:\\Users\\KraftWork\\Desktop\\mvc\\.netMvcExample\\MVCExample.Web\\Features\\Todo\\TodoItemDTO.cs",
+              "RelativeDocumentMoniker": "MVCExample.Web\\Features\\Todo\\TodoItemDTO.cs",
+              "ToolTip": "C:\\Users\\KraftWork\\Desktop\\mvc\\.netMvcExample\\MVCExample.Web\\Features\\Todo\\TodoItemDTO.cs",
+              "RelativeToolTip": "MVCExample.Web\\Features\\Todo\\TodoItemDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAsAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-26T08:52:09.574Z",
+              "WhenOpened": "2024-07-01T04:38:21.689Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\KraftWork\\Desktop\\mvc\\.netMvcExample\\MVCExample.Web\\Program.cs",
+              "RelativeDocumentMoniker": "MVCExample.Web\\Program.cs",
+              "ToolTip": "C:\\Users\\KraftWork\\Desktop\\mvc\\.netMvcExample\\MVCExample.Web\\Program.cs",
+              "RelativeToolTip": "MVCExample.Web\\Program.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T08:18:38.33Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EditTodo.cshtml",
+              "DocumentMoniker": "C:\\Users\\KraftWork\\Desktop\\mvc\\.netMvcExample\\MVCExample.Web\\Views\\Todo\\EditTodo.cshtml",
+              "RelativeDocumentMoniker": "MVCExample.Web\\Views\\Todo\\EditTodo.cshtml",
+              "ToolTip": "C:\\Users\\KraftWork\\Desktop\\mvc\\.netMvcExample\\MVCExample.Web\\Views\\Todo\\EditTodo.cshtml",
+              "RelativeToolTip": "MVCExample.Web\\Views\\Todo\\EditTodo.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAACgAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-01T04:40:35.834Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "CreateTodo.cshtml",
+              "DocumentMoniker": "C:\\Users\\KraftWork\\Desktop\\mvc\\.netMvcExample\\MVCExample.Web\\Views\\Todo\\CreateTodo.cshtml",
+              "RelativeDocumentMoniker": "MVCExample.Web\\Views\\Todo\\CreateTodo.cshtml",
+              "ToolTip": "C:\\Users\\KraftWork\\Desktop\\mvc\\.netMvcExample\\MVCExample.Web\\Views\\Todo\\CreateTodo.cshtml",
+              "RelativeToolTip": "MVCExample.Web\\Views\\Todo\\CreateTodo.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACoAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-01T04:40:09.829Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TodoResponseDTO.cs",
+              "DocumentMoniker": "C:\\Users\\KraftWork\\Desktop\\mvc\\.netMvcExample\\MVCExample.Web\\Features\\Todo\\TodoResponseDTO.cs",
+              "RelativeDocumentMoniker": "MVCExample.Web\\Features\\Todo\\TodoResponseDTO.cs",
+              "ToolTip": "C:\\Users\\KraftWork\\Desktop\\mvc\\.netMvcExample\\MVCExample.Web\\Features\\Todo\\TodoResponseDTO.cs",
+              "RelativeToolTip": "MVCExample.Web\\Features\\Todo\\TodoResponseDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T05:05:08.188Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "EditPage.cshtml",
               "DocumentMoniker": "C:\\Users\\KraftWork\\Desktop\\mvc\\.netMvcExample\\MVCExample.Web\\Views\\Book\\EditPage.cshtml",
               "RelativeDocumentMoniker": "MVCExample.Web\\Views\\Book\\EditPage.cshtml",
               "ToolTip": "C:\\Users\\KraftWork\\Desktop\\mvc\\.netMvcExample\\MVCExample.Web\\Views\\Book\\EditPage.cshtml",
               "RelativeToolTip": "MVCExample.Web\\Views\\Book\\EditPage.cshtml",
-              "ViewState": "AQIAABUAAAAAAAAAAAAAABQAAAAzAAAA",
+              "ViewState": "AQIAACIAAAAAAAAAAAAUwDUAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-06-26T17:23:16.878Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\KraftWork\\Desktop\\mvc\\.netMvcExample\\MVCExample.Web\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "MVCExample.Web\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "C:\\Users\\KraftWork\\Desktop\\mvc\\.netMvcExample\\MVCExample.Web\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "MVCExample.Web\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-01T08:08:54.685Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CreateBook.cshtml",
+              "DocumentMoniker": "C:\\Users\\KraftWork\\Desktop\\mvc\\.netMvcExample\\MVCExample.Web\\Views\\Book\\CreateBook.cshtml",
+              "RelativeDocumentMoniker": "MVCExample.Web\\Views\\Book\\CreateBook.cshtml",
+              "ToolTip": "C:\\Users\\KraftWork\\Desktop\\mvc\\.netMvcExample\\MVCExample.Web\\Views\\Book\\CreateBook.cshtml",
+              "RelativeToolTip": "MVCExample.Web\\Views\\Book\\CreateBook.cshtml",
+              "ViewState": "AQIAABIAAAAAAAAAAAAUwD0AAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-26T09:17:16.263Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "BookController.cs",
+              "DocumentMoniker": "C:\\Users\\KraftWork\\Desktop\\mvc\\.netMvcExample\\MVCExample.Web\\Features\\Book\\BookController.cs",
+              "RelativeDocumentMoniker": "MVCExample.Web\\Features\\Book\\BookController.cs",
+              "ToolTip": "C:\\Users\\KraftWork\\Desktop\\mvc\\.netMvcExample\\MVCExample.Web\\Features\\Book\\BookController.cs",
+              "RelativeToolTip": "MVCExample.Web\\Features\\Book\\BookController.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAgwA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T08:52:09.574Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "EditBlog.cshtml",
+              "DocumentMoniker": "C:\\Users\\KraftWork\\Desktop\\mvc\\.netMvcExample\\MVCExample.Web\\Views\\Blog\\EditBlog.cshtml",
+              "RelativeDocumentMoniker": "MVCExample.Web\\Views\\Blog\\EditBlog.cshtml",
+              "ToolTip": "C:\\Users\\KraftWork\\Desktop\\mvc\\.netMvcExample\\MVCExample.Web\\Views\\Blog\\EditBlog.cshtml",
+              "RelativeToolTip": "MVCExample.Web\\Views\\Blog\\EditBlog.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-01T07:11:19.008Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\KraftWork\\Desktop\\mvc\\.netMvcExample\\MVCExample.Web\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "MVCExample.Web\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\KraftWork\\Desktop\\mvc\\.netMvcExample\\MVCExample.Web\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "MVCExample.Web\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-01T07:11:15.331Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\KraftWork\\Desktop\\mvc\\.netMvcExample\\MVCExample.Web\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "MVCExample.Web\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\KraftWork\\Desktop\\mvc\\.netMvcExample\\MVCExample.Web\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "MVCExample.Web\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAAB4AAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-26T09:31:30.551Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "_Header.cshtml",
+              "DocumentMoniker": "C:\\Users\\KraftWork\\Desktop\\mvc\\.netMvcExample\\MVCExample.Web\\Views\\Shared\\_Header.cshtml",
+              "RelativeDocumentMoniker": "MVCExample.Web\\Views\\Shared\\_Header.cshtml",
+              "ToolTip": "C:\\Users\\KraftWork\\Desktop\\mvc\\.netMvcExample\\MVCExample.Web\\Views\\Shared\\_Header.cshtml",
+              "RelativeToolTip": "MVCExample.Web\\Views\\Shared\\_Header.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-26T09:41:55.45Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "_MainSidebar.cshtml",
+              "DocumentMoniker": "C:\\Users\\KraftWork\\Desktop\\mvc\\.netMvcExample\\MVCExample.Web\\Views\\Shared\\_MainSidebar.cshtml",
+              "RelativeDocumentMoniker": "MVCExample.Web\\Views\\Shared\\_MainSidebar.cshtml",
+              "ToolTip": "C:\\Users\\KraftWork\\Desktop\\mvc\\.netMvcExample\\MVCExample.Web\\Views\\Shared\\_MainSidebar.cshtml",
+              "RelativeToolTip": "MVCExample.Web\\Views\\Shared\\_MainSidebar.cshtml",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAUwCEAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-26T09:34:39.275Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CreateBlog.cshtml",
+              "DocumentMoniker": "C:\\Users\\KraftWork\\Desktop\\mvc\\.netMvcExample\\MVCExample.Web\\Views\\Blog\\CreateBlog.cshtml",
+              "RelativeDocumentMoniker": "MVCExample.Web\\Views\\Blog\\CreateBlog.cshtml",
+              "ToolTip": "C:\\Users\\KraftWork\\Desktop\\mvc\\.netMvcExample\\MVCExample.Web\\Views\\Blog\\CreateBlog.cshtml",
+              "RelativeToolTip": "MVCExample.Web\\Views\\Blog\\CreateBlog.cshtml",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAAA4AAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-26T09:16:42.192Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
               "Title": "_ViewImports.cshtml",
               "DocumentMoniker": "C:\\Users\\KraftWork\\Desktop\\mvc\\.netMvcExample\\MVCExample.Web\\Views\\_ViewImports.cshtml",
               "RelativeDocumentMoniker": "MVCExample.Web\\Views\\_ViewImports.cshtml",
@@ -246,20 +433,111 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "_MainSidebar.cshtml",
-              "DocumentMoniker": "C:\\Users\\KraftWork\\Desktop\\mvc\\.netMvcExample\\MVCExample.Web\\Views\\Shared\\_MainSidebar.cshtml",
-              "RelativeDocumentMoniker": "MVCExample.Web\\Views\\Shared\\_MainSidebar.cshtml",
-              "ToolTip": "C:\\Users\\KraftWork\\Desktop\\mvc\\.netMvcExample\\MVCExample.Web\\Views\\Shared\\_MainSidebar.cshtml",
-              "RelativeToolTip": "MVCExample.Web\\Views\\Shared\\_MainSidebar.cshtml",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAACQAAAAWAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-26T09:34:39.275Z",
+              "DocumentIndex": 19,
+              "Title": "BlogDataModel.cs",
+              "DocumentMoniker": "C:\\Users\\KraftWork\\Desktop\\mvc\\.netMvcExample\\MVCExample.Web\\Features\\Blog\\BlogDataModel.cs",
+              "RelativeDocumentMoniker": "MVCExample.Web\\Features\\Blog\\BlogDataModel.cs",
+              "ToolTip": "C:\\Users\\KraftWork\\Desktop\\mvc\\.netMvcExample\\MVCExample.Web\\Features\\Blog\\BlogDataModel.cs",
+              "RelativeToolTip": "MVCExample.Web\\Features\\Blog\\BlogDataModel.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwAcAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T08:38:36.861Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 20,
+              "Title": "TodoResponseDTOList.cs",
+              "DocumentMoniker": "C:\\Users\\KraftWork\\Desktop\\mvc\\.netMvcExample\\MVCExample.Web\\Features\\Todo\\TodoResponseDTOList.cs",
+              "RelativeDocumentMoniker": "MVCExample.Web\\Features\\Todo\\TodoResponseDTOList.cs",
+              "ToolTip": "C:\\Users\\KraftWork\\Desktop\\mvc\\.netMvcExample\\MVCExample.Web\\Features\\Todo\\TodoResponseDTOList.cs",
+              "RelativeToolTip": "MVCExample.Web\\Features\\Todo\\TodoResponseDTOList.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T05:04:08.226Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "BlogController.cs",
+              "DocumentMoniker": "C:\\Users\\KraftWork\\Desktop\\mvc\\.netMvcExample\\MVCExample.Web\\Features\\Blog\\BlogController.cs",
+              "RelativeDocumentMoniker": "MVCExample.Web\\Features\\Blog\\BlogController.cs",
+              "ToolTip": "C:\\Users\\KraftWork\\Desktop\\mvc\\.netMvcExample\\MVCExample.Web\\Features\\Blog\\BlogController.cs",
+              "RelativeToolTip": "MVCExample.Web\\Features\\Blog\\BlogController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T08:52:12.603Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "BookView.cshtml",
+              "DocumentMoniker": "C:\\Users\\KraftWork\\Desktop\\mvc\\.netMvcExample\\MVCExample.Web\\Views\\Book\\BookView.cshtml",
+              "RelativeDocumentMoniker": "MVCExample.Web\\Views\\Book\\BookView.cshtml",
+              "ToolTip": "C:\\Users\\KraftWork\\Desktop\\mvc\\.netMvcExample\\MVCExample.Web\\Views\\Book\\BookView.cshtml",
+              "RelativeToolTip": "MVCExample.Web\\Views\\Book\\BookView.cshtml",
+              "ViewState": "AQIAAEMAAAAAAAAAAAAcwFYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-26T10:00:44.043Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Modals.cshtml",
+              "DocumentMoniker": "C:\\Users\\KraftWork\\Desktop\\mvc\\.netMvcExample\\MVCExample.Web\\Views\\Blog\\Modals.cshtml",
+              "RelativeDocumentMoniker": "MVCExample.Web\\Views\\Blog\\Modals.cshtml",
+              "ToolTip": "C:\\Users\\KraftWork\\Desktop\\mvc\\.netMvcExample\\MVCExample.Web\\Views\\Blog\\Modals.cshtml",
+              "RelativeToolTip": "MVCExample.Web\\Views\\Blog\\Modals.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-26T09:21:28.049Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "_Styles.cshtml",
+              "DocumentMoniker": "C:\\Users\\KraftWork\\Desktop\\mvc\\.netMvcExample\\MVCExample.Web\\Views\\Shared\\_Styles.cshtml",
+              "RelativeDocumentMoniker": "MVCExample.Web\\Views\\Shared\\_Styles.cshtml",
+              "ToolTip": "C:\\Users\\KraftWork\\Desktop\\mvc\\.netMvcExample\\MVCExample.Web\\Views\\Shared\\_Styles.cshtml",
+              "RelativeToolTip": "MVCExample.Web\\Views\\Shared\\_Styles.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-26T09:41:52.394Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "BookService.cs",
+              "DocumentMoniker": "C:\\Users\\KraftWork\\Desktop\\mvc\\.netMvcExample\\MVCExample.Web\\Features\\Book\\BookService.cs",
+              "RelativeDocumentMoniker": "MVCExample.Web\\Features\\Book\\BookService.cs",
+              "ToolTip": "C:\\Users\\KraftWork\\Desktop\\mvc\\.netMvcExample\\MVCExample.Web\\Features\\Book\\BookService.cs",
+              "RelativeToolTip": "MVCExample.Web\\Features\\Book\\BookService.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAAAqwA4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T08:38:10.369Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\KraftWork\\Desktop\\mvc\\.netMvcExample\\MVCExample.Web\\Features\\Book\\Book.cs",
+              "RelativeDocumentMoniker": "MVCExample.Web\\Features\\Book\\Book.cs",
+              "ToolTip": "C:\\Users\\KraftWork\\Desktop\\mvc\\.netMvcExample\\MVCExample.Web\\Features\\Book\\Book.cs",
+              "RelativeToolTip": "MVCExample.Web\\Features\\Book\\Book.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAA1wAoAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T08:30:52.816Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
               "Title": "IBookService.cs",
               "DocumentMoniker": "C:\\Users\\KraftWork\\Desktop\\mvc\\.netMvcExample\\MVCExample.Web\\Features\\Book\\IBookService.cs",
               "RelativeDocumentMoniker": "MVCExample.Web\\Features\\Book\\IBookService.cs",
@@ -272,7 +550,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 29,
               "Title": "BlogListRequestModel.cs",
               "DocumentMoniker": "C:\\Users\\KraftWork\\Desktop\\mvc\\.netMvcExample\\MVCExample.Web\\Features\\Blog\\BlogListRequestModel.cs",
               "RelativeDocumentMoniker": "MVCExample.Web\\Features\\Blog\\BlogListRequestModel.cs",
@@ -285,20 +563,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 28,
               "Title": "BlogService.cs",
               "DocumentMoniker": "C:\\Users\\KraftWork\\Desktop\\mvc\\.netMvcExample\\MVCExample.Web\\Features\\Blog\\BlogService.cs",
               "RelativeDocumentMoniker": "MVCExample.Web\\Features\\Blog\\BlogService.cs",
               "ToolTip": "C:\\Users\\KraftWork\\Desktop\\mvc\\.netMvcExample\\MVCExample.Web\\Features\\Blog\\BlogService.cs",
               "RelativeToolTip": "MVCExample.Web\\Features\\Blog\\BlogService.cs",
-              "ViewState": "AQIAAM8AAAAAAAAAAAAAAB4AAAAbAAAA",
+              "ViewState": "AQIAAMwAAAAAAAAAAIBJwB4AAAAbAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-26T08:39:00.498Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 30,
               "Title": "BlogRequestModel.cs",
               "DocumentMoniker": "C:\\Users\\KraftWork\\Desktop\\mvc\\.netMvcExample\\MVCExample.Web\\Features\\Blog\\BlogRequestModel.cs",
               "RelativeDocumentMoniker": "MVCExample.Web\\Features\\Blog\\BlogRequestModel.cs",
@@ -311,7 +589,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 31,
               "Title": "IBlogService.cs",
               "DocumentMoniker": "C:\\Users\\KraftWork\\Desktop\\mvc\\.netMvcExample\\MVCExample.Web\\Features\\Blog\\IBlogService.cs",
               "RelativeDocumentMoniker": "MVCExample.Web\\Features\\Blog\\IBlogService.cs",
@@ -324,7 +602,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 32,
               "Title": "BaseController.cs",
               "DocumentMoniker": "C:\\Users\\KraftWork\\Desktop\\mvc\\.netMvcExample\\MVCExample.Web\\Features\\Base\\BaseController.cs",
               "RelativeDocumentMoniker": "MVCExample.Web\\Features\\Base\\BaseController.cs",
@@ -337,7 +615,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 33,
               "Title": "BaseDataModel.cs",
               "DocumentMoniker": "C:\\Users\\KraftWork\\Desktop\\mvc\\.netMvcExample\\MVCExample.Web\\Features\\Base\\BaseDataModel.cs",
               "RelativeDocumentMoniker": "MVCExample.Web\\Features\\Base\\BaseDataModel.cs",
@@ -350,57 +628,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "BlogController.cs",
-              "DocumentMoniker": "C:\\Users\\KraftWork\\Desktop\\mvc\\.netMvcExample\\MVCExample.Web\\Features\\Blog\\BlogController.cs",
-              "RelativeDocumentMoniker": "MVCExample.Web\\Features\\Blog\\BlogController.cs",
-              "ToolTip": "C:\\Users\\KraftWork\\Desktop\\mvc\\.netMvcExample\\MVCExample.Web\\Features\\Blog\\BlogController.cs",
-              "RelativeToolTip": "MVCExample.Web\\Features\\Blog\\BlogController.cs",
-              "ViewState": "AQIAABEAAAAAAAAAAAAAABUAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-26T08:52:12.603Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "BlogDataModel.cs",
-              "DocumentMoniker": "C:\\Users\\KraftWork\\Desktop\\mvc\\.netMvcExample\\MVCExample.Web\\Features\\Blog\\BlogDataModel.cs",
-              "RelativeDocumentMoniker": "MVCExample.Web\\Features\\Blog\\BlogDataModel.cs",
-              "ToolTip": "C:\\Users\\KraftWork\\Desktop\\mvc\\.netMvcExample\\MVCExample.Web\\Features\\Blog\\BlogDataModel.cs",
-              "RelativeToolTip": "MVCExample.Web\\Features\\Blog\\BlogDataModel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-26T08:38:36.861Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\KraftWork\\Desktop\\mvc\\.netMvcExample\\MVCExample.Web\\Program.cs",
-              "RelativeDocumentMoniker": "MVCExample.Web\\Program.cs",
-              "ToolTip": "C:\\Users\\KraftWork\\Desktop\\mvc\\.netMvcExample\\MVCExample.Web\\Program.cs",
-              "RelativeToolTip": "MVCExample.Web\\Program.cs",
-              "ViewState": "AQIAACQAAAAAAAAAAAAAABUAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-26T08:18:38.33Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\KraftWork\\Desktop\\mvc\\.netMvcExample\\MVCExample.Web\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "MVCExample.Web\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\KraftWork\\Desktop\\mvc\\.netMvcExample\\MVCExample.Web\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "MVCExample.Web\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAAAB0AAAAdAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-26T09:31:30.551Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 34,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\KraftWork\\Desktop\\mvc\\.netMvcExample\\MVCExample.Web\\Views\\Blog\\Index.cshtml",
               "RelativeDocumentMoniker": "MVCExample.Web\\Views\\Blog\\Index.cshtml",
@@ -408,23 +636,12 @@
               "RelativeToolTip": "MVCExample.Web\\Views\\Blog\\Index.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAHEAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-26T09:33:44.617Z"
+              "WhenOpened": "2024-06-26T09:33:44.617Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "_Header.cshtml",
-              "DocumentMoniker": "C:\\Users\\KraftWork\\Desktop\\mvc\\.netMvcExample\\MVCExample.Web\\Views\\Shared\\_Header.cshtml",
-              "RelativeDocumentMoniker": "MVCExample.Web\\Views\\Shared\\_Header.cshtml",
-              "ToolTip": "C:\\Users\\KraftWork\\Desktop\\mvc\\.netMvcExample\\MVCExample.Web\\Views\\Shared\\_Header.cshtml",
-              "RelativeToolTip": "MVCExample.Web\\Views\\Shared\\_Header.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-26T09:41:55.45Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 35,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\KraftWork\\Desktop\\mvc\\.netMvcExample\\MVCExample.Web\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "MVCExample.Web\\Views\\Home\\Index.cshtml",
@@ -432,23 +649,12 @@
               "RelativeToolTip": "MVCExample.Web\\Views\\Home\\Index.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-26T09:31:24.044Z"
+              "WhenOpened": "2024-06-26T09:31:24.044Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "CreateBlog.cshtml",
-              "DocumentMoniker": "C:\\Users\\KraftWork\\Desktop\\mvc\\.netMvcExample\\MVCExample.Web\\Views\\Blog\\CreateBlog.cshtml",
-              "RelativeDocumentMoniker": "MVCExample.Web\\Views\\Blog\\CreateBlog.cshtml",
-              "ToolTip": "C:\\Users\\KraftWork\\Desktop\\mvc\\.netMvcExample\\MVCExample.Web\\Views\\Blog\\CreateBlog.cshtml",
-              "RelativeToolTip": "MVCExample.Web\\Views\\Blog\\CreateBlog.cshtml",
-              "ViewState": "AQIAABgAAAAAAAAAAAAAAA4AAAAXAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-26T09:16:42.192Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 36,
               "Title": "_Scripts.cshtml",
               "DocumentMoniker": "C:\\Users\\KraftWork\\Desktop\\mvc\\.netMvcExample\\MVCExample.Web\\Views\\Shared\\_Scripts.cshtml",
               "RelativeDocumentMoniker": "MVCExample.Web\\Views\\Shared\\_Scripts.cshtml",
@@ -456,11 +662,12 @@
               "RelativeToolTip": "MVCExample.Web\\Views\\Shared\\_Scripts.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-26T09:41:50.453Z"
+              "WhenOpened": "2024-06-26T09:41:50.453Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 37,
               "Title": "_AdminLteLayout.cshtml",
               "DocumentMoniker": "C:\\Users\\KraftWork\\Desktop\\mvc\\.netMvcExample\\MVCExample.Web\\Views\\Shared\\_AdminLteLayout.cshtml",
               "RelativeDocumentMoniker": "MVCExample.Web\\Views\\Shared\\_AdminLteLayout.cshtml",
@@ -468,23 +675,12 @@
               "RelativeToolTip": "MVCExample.Web\\Views\\Shared\\_AdminLteLayout.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-26T09:34:23.032Z"
+              "WhenOpened": "2024-06-26T09:34:23.032Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
-              "Title": "Modals.cshtml",
-              "DocumentMoniker": "C:\\Users\\KraftWork\\Desktop\\mvc\\.netMvcExample\\MVCExample.Web\\Views\\Blog\\Modals.cshtml",
-              "RelativeDocumentMoniker": "MVCExample.Web\\Views\\Blog\\Modals.cshtml",
-              "ToolTip": "C:\\Users\\KraftWork\\Desktop\\mvc\\.netMvcExample\\MVCExample.Web\\Views\\Blog\\Modals.cshtml",
-              "RelativeToolTip": "MVCExample.Web\\Views\\Blog\\Modals.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-26T09:21:28.049Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 38,
               "Title": "CATEGORY.cs",
               "DocumentMoniker": "C:\\Users\\KraftWork\\Desktop\\mvc\\.netMvcExample\\MVCExample.Web\\Features\\Book\\CATEGORY.cs",
               "RelativeDocumentMoniker": "MVCExample.Web\\Features\\Book\\CATEGORY.cs",
@@ -492,11 +688,12 @@
               "RelativeToolTip": "MVCExample.Web\\Features\\Book\\CATEGORY.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-26T08:34:00.776Z"
+              "WhenOpened": "2024-06-26T08:34:00.776Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 39,
               "Title": "AppDbContext.cs",
               "DocumentMoniker": "C:\\Users\\KraftWork\\Desktop\\mvc\\.netMvcExample\\MVCExample.Web\\EFDbContext\\AppDbContext.cs",
               "RelativeDocumentMoniker": "MVCExample.Web\\EFDbContext\\AppDbContext.cs",
@@ -504,11 +701,12 @@
               "RelativeToolTip": "MVCExample.Web\\EFDbContext\\AppDbContext.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAbAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-26T08:36:53.348Z"
+              "WhenOpened": "2024-06-26T08:36:53.348Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 41,
               "Title": "MVCExample.Web.csproj",
               "DocumentMoniker": "C:\\Users\\KraftWork\\Desktop\\mvc\\.netMvcExample\\MVCExample.Web\\MVCExample.Web.csproj",
               "RelativeDocumentMoniker": "MVCExample.Web\\MVCExample.Web.csproj",
@@ -516,11 +714,12 @@
               "RelativeToolTip": "MVCExample.Web\\MVCExample.Web.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-06-26T08:02:19.034Z"
+              "WhenOpened": "2024-06-26T08:02:19.034Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 40,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\KraftWork\\Desktop\\mvc\\.netMvcExample\\MVCExample.Web\\appsettings.json",
               "RelativeDocumentMoniker": "MVCExample.Web\\appsettings.json",
@@ -528,7 +727,8 @@
               "RelativeToolTip": "MVCExample.Web\\appsettings.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAD0AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-06-26T07:43:33.888Z"
+              "WhenOpened": "2024-06-26T07:43:33.888Z",
+              "EditorCaption": ""
             }
           ]
         }

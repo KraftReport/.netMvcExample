@@ -36,7 +36,7 @@ namespace TrainingApi.Features.TodoItem
 
         public async Task<bool> EditTodo(long Id,TodoItem todoItem)
         {
-            var modal = await _context.TodoItems.FindAsync(Id);
+            var modal = await _context.TodoItems.FindAsync(todoItem.Id);
             if(modal == null)
                 return false;
 

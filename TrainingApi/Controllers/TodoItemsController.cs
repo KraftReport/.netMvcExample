@@ -59,12 +59,9 @@ namespace TrainingApi.Controllers
                 data.IsSuccess = false;
                 data.Message = "fail to update something went wrong";
             }
-
             data.IsSuccess = true;
             data.Message = "updated successfully";
             return Ok(data);
-
-            
         }
 
         // POST: api/TodoItems

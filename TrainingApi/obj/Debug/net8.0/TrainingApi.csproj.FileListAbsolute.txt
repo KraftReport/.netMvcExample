@@ -504,3 +504,13 @@ C:\Users\KraftWork\Desktop\mvc\.netMvcExample\TrainingApi\obj\Debug\net8.0\refin
 C:\Users\KraftWork\Desktop\mvc\.netMvcExample\TrainingApi\obj\Debug\net8.0\TrainingApi.pdb
 C:\Users\KraftWork\Desktop\mvc\.netMvcExample\TrainingApi\obj\Debug\net8.0\TrainingApi.genruntimeconfig.cache
 C:\Users\KraftWork\Desktop\mvc\.netMvcExample\TrainingApi\obj\Debug\net8.0\ref\TrainingApi.dll
+C:\Users\KraftWork\Desktop\mvc\.netMvcExample\TrainingApi\bin\Debug\net8.0\Serilog.dll
+C:\Users\KraftWork\Desktop\mvc\.netMvcExample\TrainingApi\bin\Debug\net8.0\Serilog.AspNetCore.dll
+C:\Users\KraftWork\Desktop\mvc\.netMvcExample\TrainingApi\bin\Debug\net8.0\Serilog.Extensions.Hosting.dll
+C:\Users\KraftWork\Desktop\mvc\.netMvcExample\TrainingApi\bin\Debug\net8.0\Serilog.Extensions.Logging.dll
+C:\Users\KraftWork\Desktop\mvc\.netMvcExample\TrainingApi\bin\Debug\net8.0\Serilog.Formatting.Compact.dll
+C:\Users\KraftWork\Desktop\mvc\.netMvcExample\TrainingApi\bin\Debug\net8.0\Serilog.Settings.Configuration.dll
+C:\Users\KraftWork\Desktop\mvc\.netMvcExample\TrainingApi\bin\Debug\net8.0\Serilog.Sinks.Console.dll
+C:\Users\KraftWork\Desktop\mvc\.netMvcExample\TrainingApi\bin\Debug\net8.0\Serilog.Sinks.Debug.dll
+C:\Users\KraftWork\Desktop\mvc\.netMvcExample\TrainingApi\bin\Debug\net8.0\Serilog.Sinks.File.dll
+C:\Users\KraftWork\Desktop\mvc\.netMvcExample\TrainingApi\bin\Debug\net8.0\Serilog.Sinks.Http.dll

@@ -394,3 +394,4 @@ C:\Users\KraftWork\Desktop\mvc\.netMvcExample\MVCExample.Web\bin\Debug\net6.0\Sy
 C:\Users\KraftWork\Desktop\mvc\.netMvcExample\MVCExample.Web\bin\Debug\net6.0\System.Text.Encodings.Web.dll
 C:\Users\KraftWork\Desktop\mvc\.netMvcExample\MVCExample.Web\bin\Debug\net6.0\System.Text.Json.dll
 C:\Users\KraftWork\Desktop\mvc\.netMvcExample\MVCExample.Web\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\KraftWork\Desktop\mvc\.netMvcExample\MVCExample.Web\bin\Debug\net6.0\Newtonsoft.Json.dll
